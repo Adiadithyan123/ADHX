@@ -64,7 +64,7 @@
     <div class="container">
         <section id="about" class="content">
             <h2>About Me</h2>
-            <p>Hello,I'm ADITHYAN S .I am a computer engineering student from GPTC Nedumengad<br>and living in Trivandram,kerala.I bring a unique blend of creativity,strategic thinking,and<br>a relentless pursuit of excellence to everything I do with a background in basic programming skills <br>I've honed my skills in web development & basic coding. I thrive in dynamic environments<br> where I can contribute innovative solution and drive impactful results .<br>I'm excited to bring my passion and dedication too...</p>
+            <p>Hello,I'm ADITHYAN S .I am a computer engineering student from GPTC Nedumengad<br>and living in Trivandrum,kerala.I bring a unique blend of creativity,strategic thinking,and<br>a relentless pursuit of excellence to everything I do with a background in basic programming skills <br>I've honed my skills in web development & basic coding. I thrive in dynamic environments<br> where I can contribute innovative solution and drive impactful results .<br>I'm excited to bring my passion and dedication too...</p>
         </section></p>
         </section>
         <section id="contact" class="content">
