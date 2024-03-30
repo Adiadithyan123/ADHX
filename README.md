@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -70,6 +70,5 @@
         <section id="contact" class="content">
             <h2>Contact Me</h2>
             <p>NAME : ADITHYAN S<br>PHONE NO : +91 9645024598<br>E-mail : adiadithyan1983@gmail.com</S></p>
-    </footer>
-</body>
-</html>
+    </footer
+
